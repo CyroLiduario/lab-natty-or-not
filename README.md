@@ -12,7 +12,7 @@ Descubra o universo da programação com "Python Learning Journey", um e-book co
 Há algum tempo já havia usado o ChatGPT para me ajudar a desenvolver um caderno que continha os principais conceitos do Python para que tivesse uma consulta rápida e prática afim de relembrar tais conceitos. Dessa forma, partindo do contaúdo desenvolvido pelo ChatGPT e desenvolvimento de imagens por IAs generativas, organizei o eBook com a ferramenta Canva.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Disponível em [Python Learning Journey](https://www.canva.com/design/DAGKanD1eHM/h6NXC2WDSEqyvPO8gHNTAA/view?utm_content=DAGKanD1eHM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
