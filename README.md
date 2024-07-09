@@ -15,4 +15,4 @@ Há algum tempo já havia usado o ChatGPT para me ajudar a desenvolver um cadern
 Disponível em [Python Learning Journey](https://www.canva.com/design/DAGKanD1eHM/h6NXC2WDSEqyvPO8gHNTAA/view?utm_content=DAGKanD1eHM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+É incrível ver o poder da Inteligência Artificial em facilitar nosso dia a dia.
