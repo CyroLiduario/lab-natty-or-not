@@ -5,7 +5,7 @@ Descubra o universo da programação com "Python Learning Journey", um e-book co
 
 ## 🤖 Tecnologias Utilizadas
 - IA generativa **[ChatGPT](https://chat.openai.com)** para criação de conteúdo;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
+- IA Generativa **[Copilot](https://www.bing.com/chat?q=Microsoft+Copilot&FORM=hpcodx)** para criar a arte visual do e-book;
 - Canva para edição do conteúdo;
 
 ## 🧐 Processo de Criação
